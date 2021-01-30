@@ -1,0 +1,9 @@
+
+0
+java:S1220""Move this file to a named package.
+H
+java:S1068",Remove this unused "PAGE_URL" private field.(ïÙ¥#8Ãø‰°ñ.
+o
+java:S3008"SRename this field "PAGE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÙ¥#8ÖûŠ°ñ.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(©ƒÃÉÿÿÿÿÿ8ÖûŠ°ñ.

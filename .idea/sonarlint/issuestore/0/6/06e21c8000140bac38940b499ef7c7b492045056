@@ -1,0 +1,33 @@
+
+D
+java:S2699Ô"-Add at least one assertion to this test case.(ºÔ²Õ
+
+java:S3577"‡Rename class "Selenium" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ë¹ş²
+9
+java:S5786"Remove this 'public' modifier.(‚§Û¡ıÿÿÿÿ
+4
+java:S5786%"Remove this 'public' modifier.(¡¼šŸ
+9
+java:S5786B"Remove this 'public' modifier.(¾û—¹øÿÿÿÿ
+4
+java:S5786T"Remove this 'public' modifier.(ñ«¿
+3
+java:S5786g"Remove this 'public' modifier.(ÖÿÍ|
+4
+java:S5786~"Remove this 'public' modifier.(êÎ×Â
+:
+java:S5786•"Remove this 'public' modifier.(Í¼Ò›ùÿÿÿÿ
+:
+java:S5786±"Remove this 'public' modifier.(‚–ıÛúÿÿÿÿ
+5
+java:S5786Æ"Remove this 'public' modifier.(ê×Ø¬
+:
+java:S5786Ş"Remove this 'public' modifier.(¦ã³ÿÿÿÿÿ
+5
+java:S5786š"Remove this 'public' modifier.(µ®¼‹
+5
+java:S5786Ô"Remove this 'public' modifier.(ºÔ²Õ
+:
+java:S5786ñ"Remove this 'public' modifier.(«ÿÃÔúÿÿÿÿ
+;
+java:S2925"$Remove this use of "Thread.sleep()".(¬Æ„°
